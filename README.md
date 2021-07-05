@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there!
+My name is Paul and I'm a sophomore at the University of California, Los Angeles (UCLA).
 
-<!--
-**PaulSera1/PaulSera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Working On
+![Editor](https://github-readme-stats.vercel.app/api/pin/?username=PaulSera1&repo=editor)
 
-Here are some ideas to get you started:
+### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulSera1&langs_count=8&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun fact about me
+```c
+Segmentation fault (core dumped)
+```
