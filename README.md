@@ -1,5 +1,5 @@
 ## Hi there!
-My name is Paul and I'm a sophomore at the University of California, Los Angeles (UCLA).
+My name is Paul and I'm a sophomore Computer Science & Engineering major at the University of California, Los Angeles (UCLA).
 
 ### Currently Working On
 ![Editor](https://github-readme-stats.vercel.app/api/pin/?username=PaulSera1&repo=editor)
